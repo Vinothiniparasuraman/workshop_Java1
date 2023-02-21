@@ -1,0 +1,748 @@
+[
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army, Denton",
+  "Phone Number ": "(940) 566-3800",
+  "Address ": "1508 East McKinney St., Denton 76201",
+  "Description ": "Open 9a - 5p Monday through Friday ",
+  "Coordinates": "(33.2154868, -97.1133526)",
+  "Travel Route ": "DCTA Bus Route 3 "
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army, Garland",
+  "Phone Number ": "(940) 272-2531",
+  "Address ": "451 W. Ave D, Garland 75040",
+  "Description ": "Open 9a - 5p Monday through Friday ",
+  "Coordinates": "(32.9092279, -96.6360813)",
+  "Travel Route ": "DART Bus Routes 377 and 380"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army, Irving",
+  "Phone Number ": "(972) 438-6553",
+  "Address ": "250 East Grauwyler Road, Irving 75061",
+  "Description ": "Open 9a - 5p Monday through Friday ",
+  "Coordinates": "(32.8287080, -96.9433071)",
+  "Travel Route ": "DART Bus Routes 514"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army, Lewisville",
+  "Phone Number ": "(972) 353-9400",
+  "Address ": "205 W. Main Street, Lewisville 75057",
+  "Description ": "Open 9a - 5p Monday through Friday ",
+  "Coordinates": "(33.0463057, -96.9966953)",
+  "Travel Route ": "DCTA Connect Route 22"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army, Northside Corps (N. Forth Worth)",
+  "Phone Number ": "(817) 624-3111",
+  "Address ": "3023 NW 24th St., Fort Worth 76106",
+  "Description ": "Open 9a - 5p Monday through Friday ",
+  "Coordinates": "(32.7998298, -97.3861968)",
+  "Travel Route ": "Trinity Metro Bus Route 44"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army, Oak Cliff",
+  "Phone Number ": "(214) 941-5911",
+  "Address ": "1617 W. Jefferson, Dallas 75208",
+  "Description ": "Open 9a - 5p Monday through Friday ",
+  "Coordinates": "(32.7460653, -96.8474118)",
+  "Travel Route ": "DART Bus Route 11"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army, Plano",
+  "Phone Number ": "(972) 423-8254",
+  "Address ": "3528 E. 14th, Plano 75074",
+  "Description ": "Open 9a - 5p Monday through Friday ",
+  "Coordinates": "(33.0139746, -96.6673619)",
+  "Travel Route ": "DART East Plano FLEX Route 870"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army, Pleasant Grove ",
+  "Phone Number ": "(214) 398-6619",
+  "Address ": "8341 Elam Rd., Dallas 75217",
+  "Description ": "Open 9a - 5p Monday through Friday ",
+  "Coordinates": "(32.720670, -96.676460)",
+  "Travel Route ": "DART Bus Route 594, 595 and 597"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army, Arlington ",
+  "Phone Number ": "(817) 860-1836",
+  "Address ": "712 W. Abram, Arlington 76013",
+  "Description ": "Open 9a - 5p Monday through Friday ",
+  "Coordinates": "(32.7350330, -97.1155491)"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army, McKinney",
+  "Phone Number ": "(972) 542-6694",
+  "Address ": "600 Wilson Creek Pkwy., McKinney 75069",
+  "Description ": "Open 9a - 5p Monday through Friday ",
+  "Coordinates": "(32.7683091, -97.1089478)"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army, Ellis County ",
+  "Phone Number ": "(972) 937-7727",
+  "Address ": "620 Farley St., Waxahachie 75165",
+  "Description ": "Open 9a - 5p Monday through Friday ",
+  "Coordinates": "(32.3937906, -96.8343462)"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army Homeless Shelter (Parkland Hospital Area)",
+  "Phone Number ": "(214) 424-7050",
+  "Address ": "5302 Harry Hines Blvd., Dallas 75235",
+  "Description ": "Open 9a - 8p Monday through Sunday",
+  "Coordinates": "(32.8140334, -96.8377795)",
+  "Travel Route ": "DART Rail Green and Orange lines to Southwestern Medical District\/Parkland Station, DART Bus Routes 404, 405, 408, 453 and 544"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Salvation Army Homeless Shelter ",
+  "Phone Number ": "(817) 344-1800",
+  "Address ": "1855 E. Lancaster Ave., Fort Worth 76103",
+  "Description ": "Open 9a - 8p Monday through Sunday",
+  "Coordinates": "(32.7467667, -97.3012881)",
+  "Travel Route ": "Trinity Metro Bus Routes The Spur and 14 "
+ },
+ {
+  "ID": "All Year",
+  "Name ": "The Bridge Homeless Recovery Center",
+  "Phone Number ": "(214) 670-1100",
+  "Address ": "1818 Corsicana Street, Dallas 75201",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7751540, -96.7915450)"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "Austin Street Shelter",
+  "Phone Number ": "(214) 426-4242",
+  "Address ": "2929 Hickory Street, Dallas 75226",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7789651, -96.7758804)"
+ },
+ {
+  "ID": "All Year ",
+  "Name ": "Family Gateway",
+  "Phone Number ": "(214) 823-4500",
+  "Address ": "711 South St. Paul Street, Dallas 75201",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7769981, -96.7944662)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Anita N. Martinez ",
+  "Phone Number ": "214-670-7773",
+  "Address ": "3212 Winnetka 75212",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7809479, -96.8387072)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Arcadia ",
+  "Phone Number ": "214-670-1909",
+  "Address ": "5420 N Arcadia 75211",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7441883, -96.9143170)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Arlington Park ",
+  "Phone Number ": "214-670-6326",
+  "Address ": "1505 Record Crossing 75235",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.8171322, -96.8581729)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Bachman",
+  "Phone Number ": "214-670-6266",
+  "Address ": "2750 Bachman Dr 75220",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.8533156, -96.8716658)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Beckley Saner",
+  "Phone Number ": "214-670-7595",
+  "Address ": "100 Hobson 75224",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7150442, -96.8229405)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Campbell-Green",
+  "Phone Number ": "214-670-6314",
+  "Address ": "16600 Parkhill Dr 75230",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.9786466, -96.7883760)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Churchill",
+  "Phone Number ": "214-670-6477",
+  "Address ": "6906 Churchill Dr 75230",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.9164848, -96.7857563)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Cummings",
+  "Phone Number ": "214-670-6876",
+  "Address ": "2976 Cummings 75216",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.6989285, -96.7710648)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Eloise Lundy",
+  "Phone Number ": "214-670-6781",
+  "Address ": "1228 Reverend CBT Smith St. 75203",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7552946, -96.8059258)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Exall",
+  "Phone Number ": "214-670-7812",
+  "Address ": "1355 Adair 75204",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7939050, -96.7839787)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Exline",
+  "Phone Number ": "214-670-8121",
+  "Address ": "2525 Pine St 75215",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7568755, -96.7606513)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Fireside",
+  "Phone Number ": "214-670-0959",
+  "Address ": "8601 Fireside 75217",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.6986276, -96.6717474)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Fretz",
+  "Phone Number ": "214-670-6203",
+  "Address ": "6994 Beltline 75240",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.948940, -96.781650)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Grauwyler",
+  "Phone Number ": "214-670-6302",
+  "Address ": "7780 Harry Hines 75235",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.8321767, -96.8589252)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Harry Stone",
+  "Phone Number ": "214-670-0949",
+  "Address ": "2403 Millmar 75228",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.8266659, -96.6744207)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Janie C. Turner",
+  "Phone Number ": "214-670-8277",
+  "Address ": "6424 Elam 75217",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7194315, -96.7100269)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Jaycee-Zaragoza",
+  "Phone Number ": "214-670-6188",
+  "Address ": "3114 Clyner 75212",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.780610, -96.908770)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "John C. Phelps",
+  "Phone Number ": "214-670-7525",
+  "Address ": "3030 Tips 75216",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7218581, -96.7725708)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Juanita J. Craft",
+  "Phone Number ": "214-670-8391",
+  "Address ": "4500 Spring 75210",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7738525, -96.7420830)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "K.B. Polk",
+  "Phone Number ": "214-670-6308",
+  "Address ": "6801 Roper 75209",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.8413654, -96.8304723)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Kidd Springs",
+  "Phone Number ": "214-670-7535",
+  "Address ": "711 W. Canty 75208",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7531184, -96.8340160)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Kiest",
+  "Phone Number ": "214-670-1918",
+  "Address ": "3080 S. Hampton 75224",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7098894, -96.8542599)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Kleberg Rylie",
+  "Phone Number ": "214-670-8648",
+  "Address ": "1515 Edd 75253",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.6855007, -96.6034930)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Lake Highlands",
+  "Phone Number ": "214-670-7793",
+  "Address ": "9940 White Rock Trail 75238",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.8847890, -96.7290815)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Larry Johnson",
+  "Phone Number ": "214-670-8495",
+  "Address ": "3700 Dixon 75210",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7618846, -96.7369386)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Marcus",
+  "Phone Number ": "214-670-6599",
+  "Address ": "3003 Northaven 75229",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.9044754, -96.8772820)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Martin Weiss",
+  "Phone Number ": "214-670-1919",
+  "Address ": "1111 Martindale 75211",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.737430, -96.886280)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Nash - Davis",
+  "Phone Number ": "214-670-6194",
+  "Address ": "3710 N. Hampton 75229",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7879259, -96.8549586)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Park In The Woods",
+  "Phone Number ": "214-671-0218",
+  "Address ": "6801 Mt. Creek Pkwy 75249",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.6416065, -96.9557654)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Pleasant Oaks",
+  "Phone Number ": "214-670-0945",
+  "Address ": "18701 Greenmound 75227",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7506863, -96.6717496)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Reverchon",
+  "Phone Number ": "214-670-7720",
+  "Address ": "3505 Maple Ave 75219",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.8000836, -96.8148572)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Ridgewood",
+  "Phone Number ": "214-670-7115",
+  "Address ": "6818 Fisher 75214",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.8464822, -96.7434272)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Samuell-Grand",
+  "Phone Number ": "214-670-1383",
+  "Address ": "6200 E Grand 75223",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7974945, -96.7414961)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Singing Hills (new)",
+  "Phone Number ": "214-670-7550",
+  "Address ": "6805 Patrol Way, 75241",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.6661844, -96.7872338)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Thurgood Marshall",
+  "Phone Number ": "214-670-1928",
+  "Address ": "5150 Mark Trail 75232",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.6833143, -96.8547835)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Timberglen",
+  "Phone Number ": "214-671-0644",
+  "Address ": "3810 Timberglen Rd 75287",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(33.0047749, -96.8494223)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Tommie M. Allen",
+  "Phone Number ": "214-670-0986",
+  "Address ": "7071 Bonnieview 75241",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.6594795, -96.7531630)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Umphress",
+  "Phone Number ": "214-670-0956",
+  "Address ": "7616 Umphress 75217",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7420833, -96.6910890)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Walnut Hill",
+  "Phone Number ": "214-670-7117",
+  "Address ": "10011 Midway 75229",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.880750,  -96.838600)"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "Dallas Life",
+  "Phone Number ": "214-421-1380",
+  "Address ": "1100 Cadiz St, Dallas 75215",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7717058, -96.7980569)"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "Outcry in the Barrio",
+  "Phone Number ": "214-565-5005",
+  "Address ": "4419 Hamilton Avenue, 75210",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7784578, -96.7474531)"
+ },
+ {
+  "ID": "All Year ",
+  "Name ": "Promise House - Main Office ",
+  "Phone Number ": "214-941-8578",
+  "Address ": "224 W. Page Ave, 75208",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.7399043, -96.8256446)"
+ },
+ {
+  "ID": "All Year",
+  "Name ": "Dallas VA Medical Center",
+  "Phone Number ": "214-742-8387",
+  "Address ": "4500 S Lancaster Rd, 75216",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.6966984, -96.7887623)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Central Library",
+  "Phone Number ": "214-670-1400",
+  "Address ": "1515 Young St, 75201",
+  "Description ": "Open 10a - 6p Tuesday through Saturday ",
+  "Coordinates": "(32.7784694, -96.7971748)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Arcadia Park ",
+  "Phone Number ": "214-670-6446",
+  "Address ": "1302 North Justin Ave, 75211",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.7591572, -96.9095381)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Audelia Rd ",
+  "Phone Number ": "214-670-1350",
+  "Address ": "10045 Audelia Rd, 75238",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.8857086, -96.7183788)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Bachman Lake ",
+  "Phone Number ": "214-670-1350",
+  "Address ": "9480 Webb Chapel Rd, 75220",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.8626212, -96.8593054)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Bookmarks in NorthPark Center",
+  "Phone Number ": "214-671-1381",
+  "Address ": "8687 N Central Expy, Ste 1514, 75225",
+  "Description ": "Open 10a - 6p Tuesday through Saturday ",
+  "Coordinates": "(32.8685017, -96.7735125)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Dallas West ",
+  "Phone Number ": "214-670-6445",
+  "Address ": "2332 Singleton Blvd, 75212",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.7783765, -96.8599741)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Forest Green ",
+  "Phone Number ": "214-670-1335",
+  "Address ": "9619 Greenville Ave, 75243",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.9064461, -96.7491170)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Fretz Park ",
+  "Phone Number ": "214-670-6421",
+  "Address ": "6990 Belt Line Rd, 75254",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.9495695, -96.7832392)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Grauwyler Park ",
+  "Phone Number ": "214-671-1447",
+  "Address ": "2146 Gilford Street, 75235",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.8337475, -96.8582966)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Hampton-Illinois ",
+  "Phone Number ": "214-670-7646",
+  "Address ": "2951 South Hampton Road, 75241",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.7134419, -96.8574594)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Highland Hills",
+  "Phone Number ": "214-670-0987",
+  "Address ": "6200 Bonnie View Rd, 75241",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.6708460, -96.7601550)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Kleberg Rylie",
+  "Phone Number ": "214-670-8471",
+  "Address ": "1301 Edd Road, 75235",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.6864188, -96.6010731)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Lakewood",
+  "Phone Number ": "214-670-1376",
+  "Address ": "6121 Worth Street, 75214 ",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.8103657, -96.7533782)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Lochwood",
+  "Phone Number ": "214-670-8403",
+  "Address ": "11221 Lochwood Blvd, 75218",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.8484187, -96.6882657)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Martin Luther King",
+  "Phone Number ": "214-670-0344",
+  "Address ": "2922 Martin Luther King Jr. Blvd,75215",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.7701812, -96.7653706)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Mountain Creek",
+  "Phone Number ": "214-670-6704",
+  "Address ": "6102 Mountain Creek Parkway, 75249",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.6506155, -96.9660022)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "North Oak Cliff",
+  "Phone Number ": "214-670-7555",
+  "Address ": "302 West Tenth Street, 75208",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.7448777, -96.8269617)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Oak Lawn",
+  "Phone Number ": "214-670-1359",
+  "Address ": "4100 Cedar Spring Rd, 75219",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.8123911, -96.8124097)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Park Forest",
+  "Phone Number ": "214-670-6333",
+  "Address ": "3421 Forest Lane, 75234",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.9100935, -96.8634907)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Paul Laurence Dunbar Lancaster-Kiest",
+  "Phone Number ": "214-670-1952",
+  "Address ": "2008 East Kiest Blvd, 75216",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.7148764, -96.7904361)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Pleasant Grove",
+  "Phone Number ": "214-670-0965",
+  "Address ": "7310 Lake June Rd, 75217",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.7337174, -96.6956432)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Polk-Wisdom",
+  "Phone Number ": "214-670-1947",
+  "Address ": "7151 Library Lane, 75232",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.6617045, -96.8420694)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Prairie Creek",
+  "Phone Number ": "214-671-0410",
+  "Address ": "9609 Lake June Rd, 75217",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.7345873, -96.6562116)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Preston Royal",
+  "Phone Number ": "214-670-7128",
+  "Address ": "5626 Royal Lane, 75229",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.8943671, -96.8112328)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Renner Frankford",
+  "Phone Number ": "214-670-6100",
+  "Address ": "6400 Frankford Rd, 75252",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.9976553, -96.7946207)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Skillman Southwestern",
+  "Phone Number ": "214-670-6078",
+  "Address ": "5707 Skillman St, 75206",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.8577012, -96.7565088)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Skyline",
+  "Phone Number ": "214-670-0938",
+  "Address ": "6006 Everglade Rd, 75227",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.7848208, -96.6996136)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Timberglen",
+  "Phone Number ": "214-671-1356",
+  "Address ": "18505 Midway Rd, 75287 ",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(33.0036128, -96.8450666)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Vickery Park",
+  "Phone Number ": "214-671-2101",
+  "Address ": "8333 Park Lane, 75231",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Wednesday 11a-7p",
+  "Coordinates": "(32.8718605, -96.7615203)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "White Rock Hills ",
+  "Phone Number ": "214-670-8443",
+  "Address ": "9150 Ferguson Rd, 75228",
+  "Description ": "Open 10a - 6p Tuesday through Saturday *Thursday 11a-7p",
+  "Coordinates": "(32.8139480, -96.6915903)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Axe Methodist",
+  "Phone Number ": "972-495-6476",
+  "Address ": "1700 W. Kingsley, Garland, 75041",
+  "Description ": "Garland Overnight Warming Shelter (call for hours and details)",
+  "Coordinates": "(32.8781279, -96.6530940)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Christ Church Irving",
+  "Phone Number ": "972-986-8989",
+  "Address ": "1750 East Airport Freeway, Irving, 75062",
+  "Description ": "Irving Community Action Network (Text 'homeless' to 55498 for updates)",
+  "Coordinates": "(32.8356209, -96.9230099)"
+ },
+ {
+  "ID": "Temporary",
+  "Name ": "Oak Lawn Methodist Church",
+  "Phone Number ": "972-432-5895",
+  "Address ": "3014 Oak Lawn Ave, Dallas, 75218",
+  "Description ": "(Call for hours and details.)",
+  "Coordinates": "(32.808410, -96.808710)"
+ }
+]
